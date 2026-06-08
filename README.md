@@ -226,6 +226,6 @@ This feature enables users to access detailed pizza-level insights while remaini
 <p align="center">
   <img src="images/menu_optimization_page.png" width="800">
 </p>
-<p align="center">Figure 3: Menue Optimization Page</p>
+<p align="center">Figure 3: Menu Optimization Page</p>
 
 ---
