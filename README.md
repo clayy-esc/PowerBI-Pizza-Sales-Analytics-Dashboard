@@ -216,7 +216,16 @@ This feature enables users to access detailed pizza-level insights while remaini
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="images/pizza_sales_analytics_dashboard.png" width="900">
+  <img src="images/overview_page.png" width="800">
 </p>
+<p align="center">Figure 1: Overview Page</p>
+<p align="center">
+  <img src="images/product_performance_page.png" width="800">
+</p>
+<p align="center">Figure 2: Product Performance Page</p>
+<p align="center">
+  <img src="images/menu_optimization_page.png" width="800">
+</p>
+<p align="center">Figure 3: Menue Optimization Page</p>
 
 ---
